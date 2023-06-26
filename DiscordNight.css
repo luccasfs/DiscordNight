@@ -16,12 +16,12 @@
 :root {
 	--Settings-Theme-Version: "DiscordNight v0.9.5.5";
 	
-	--Channel-Invite-Edit-Buttons: none;				/* flex = ON, none = OFF */
+	--Channel-Invite-Edit-Buttons: flex;				/* flex = ON, none = OFF */
 	--Channel-Category-Invite-Button: flex;				/* flex = ON, none = OFF */
 	--Channel-List-Active-Threads: flex;				/* flex = ON, none = OFF */
 	--Channel-List-Upcoming-Events: flex;				/* flex = ON, none = OFF */
 	--Channel-List-Boost-Goal: block;					/* block = ON, none = OFF */
-	--Channel-List-Width: 200px;						/* 200px, Discord default = 240px */
+	--Channel-List-Width: 240px;						/* 200px, Discord default = 240px */
 	
 	--User-List-Width: 240px;							/* 200px, Discord default = 240px */
 	--User-Popout-Width: 300px;							/* 240px, Discord default = 300px */
