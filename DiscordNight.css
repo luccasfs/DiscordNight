@@ -21,11 +21,11 @@
 	--Channel-List-Active-Threads: flex;				/* flex = ON, none = OFF */
 	--Channel-List-Upcoming-Events: flex;				/* flex = ON, none = OFF */
 	--Channel-List-Boost-Goal: block;					/* block = ON, none = OFF */
-	--Channel-List-Width: 240px;						/* 200px, Discord default = 240px */
+	--Channel-List-Width: 200px;						/* 200px, Discord default = 240px */
 	
 	--User-List-Width: 240px;							/* 200px, Discord default = 240px */
 	--User-Popout-Width: 300px;							/* 240px, Discord default = 300px */
-	--User-Status-Popout-Width: var(--Channel-List-Width);/* 240px, Discord default = 300px */
+	--User-Status-Popout-Width: 300px;/* 240px, Discord default = 300px */
 	
 	--Search-List-Width: 488px;							/* 488px, Discord default = 418px */
 	--Inbox-List-Width: 522px;							/* 522px, Discord default = 480px */
